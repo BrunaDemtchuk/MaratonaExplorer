@@ -1,0 +1,1 @@
+Aplicação feita durante a Maratona Explorer, da Rocketseat, na qual aprendemos conceitos de HTML, CSS e JavaScript.
